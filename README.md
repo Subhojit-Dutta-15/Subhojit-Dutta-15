@@ -11,4 +11,4 @@ Currently seeking **AI/ML Internships & Full-Time roles** or **Python Developer 
   - **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems
   - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 - 😄 Pronouns: He/ Him
-- 📫 **Connect with me:** [Email](mailto:subhojitd847@gmail.com) | [LinkedIn](www.linkedin.com/in/subhojit-dutta-7179722b3)
+- 📫 **Connect with me:** [Email](mailto:subhojitd847@gmail.com) | [LinkedIn](https://www.linkedin.com/in/subhojit-dutta-7179722b3)

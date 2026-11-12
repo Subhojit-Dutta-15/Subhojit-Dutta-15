@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm [Subhojit Dutta] 👋
 
-<!--
-**Subhojit-Dutta-15/Subhojit-Dutta-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 7th-semester **B.Tech Computer Science & Engineering** student building a strong foundation in **Python, Data Structures, and Machine Learning**. I am documenting my step-by-step journey toward becoming an **AI/ML Engineer**.
 
-Here are some ideas to get you started:
+Currently seeking **AI/ML Internships & Full-Time roles** or **Python Developer Internships** (Immediate / 2027 Grad).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently learning:** Machine Learning fundamentals, NumPy, Pandas, and Neural Networks.
+- 🔭 **Current goal:** Building end-to-end Python and ML mini-projects from scratch to master core concepts.
+- 🛠️ **Current Skills:**
+  - **Languages:** Python, C/C++, SQL
+  - **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems
+  - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- 😄 Pronouns: He/ Him
+- 📫 **Connect with me:** [Email](mailto:subhojitd847@gmail.com) | [LinkedIn](www.linkedin.com/in/subhojit-dutta-7179722b3)

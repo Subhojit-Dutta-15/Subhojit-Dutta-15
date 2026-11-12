@@ -1,4 +1,4 @@
-### Hi there, I'm [Subhojit Dutta] 👋
+### Hi there, I'm Subhojit Dutta 👋
 
 I am a 7th-semester **B.Tech Computer Science & Engineering** student building a strong foundation in **Python, Data Structures, and Machine Learning**. I am documenting my step-by-step journey toward becoming an **AI/ML Engineer**.
 
